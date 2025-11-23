@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+body{
+    background-color:ghostwhite;
+}
+.but{
+    padding:10px 20px;
+    background-color: aliceblue;
+    color:black;
+    border:1px solid grey;
+    border-radius: 20px;
+}
+.nava{
+
+    border:1px solid black;
+}
+.navbar-brand{
+    color:ghostwhite;
+    text-shadow: 2px 2px 2px black;
+}
+h1{
+     color:black;
+    text-shadow: 2px 2px 2px grey;
+}
+.searchicon{
+    color:darkcyan;
+    font-size:60px;
+    margin-left: 20px;
+
+}
+/* search container and main coding starts from here */
+.main{
+    border:1px solid aliceblue;
+    border-radius: 20px;
+    box-shadow: 10px 20px 10px 20px rgb(193, 192, 192);
+}
+.main button{
+    padding:10px 20px;
+    border-radius: 20px;
+    box-shadow: 20px 10px 20px rgb(214, 170, 170);
+    background-color: ghostwhite;
+    color:black;
+    font-size: 10px;
+    font-weight: bold;
+
+    
+}
+.image{
+    width:200px;
+    height:200px;
+    box-shadow: 10px 10px 10px ghostwhite;
+}
+.recipe-details{
+    display: none;
+}
